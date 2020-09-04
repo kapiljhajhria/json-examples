@@ -4,6 +4,36 @@
 		"text": "Did you exercise today?",
 		"options": ["Yes", "No"],
 		"correct_choice": 0
+    },
+    {
+		"text": "Did you exercise today?",
+		"options": ["Yes", "No"],
+		"correct_choice": 0
+    },
+	    {
+		"text": "Did you exercise today?",
+		"options": ["Yes", "No"],
+		"correct_choice": 0
+    },
+	    {
+		"text": "Did you exercise today?",
+		"options": ["Yes", "No"],
+		"correct_choice": 0
+    },
+	    {
+		"text": "Did you exercise today?",
+		"options": ["Yes", "No"],
+		"correct_choice": 0
+    },
+	    {
+		"text": "Did you exercise today?",
+		"options": ["Yes", "No"],
+		"correct_choice": 0
+    },
+	    {
+		"text": "Did you exercise today?",
+		"options": ["Yes", "No"],
+		"correct_choice": 0
     }
   ]
 }
