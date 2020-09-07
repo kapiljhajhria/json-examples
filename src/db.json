@@ -2,22 +2,22 @@
   "questions": [
     {
 		"que": "Did you exercise today?",
-		"queId": "excercised",
+		"queId": "excercised"
     },{
 		"que": "Did you sleep well last night?",
-		"queId": "sleepWell",
+		"queId": "sleepWell"
     },{
 		"que": "Did you drink alcohol?",
-		"queId": "hadAlcohol",
+		"queId": "hadAlcohol"
     },{
 		"que": "Did you eat well?",
-		"queId": "eatWell",
+		"queId": "eatWell"
     },{
 		"que": "Were you productive?",
-		"queId": "productive",
+		"queId": "productive"
     },{
 		"que": "Did you spend time with friends?",
-		"queId": "outWithFriends",
+		"queId": "outWithFriends"
     }
   ]
 }
