@@ -1,29 +1,23 @@
 {
   "questions": [
     {
-		"text": "Did you exercise today?",
-		"options": [ "👍","👎"],
-		"correct_choice": 0
+		"que": "Did you exercise today?",
+		"queId": "excercised",
     },{
-		"text": "Did you sleep well last night?",
-		"options": [ "👍","👎"],
-		"correct_choice": 0
+		"que": "Did you sleep well last night?",
+		"queId": "sleepWell",
     },{
-		"text": "Did you drink alcohol?",
-		"options": [ "👍","👎"],
-		"correct_choice": 1
+		"que": "Did you drink alcohol?",
+		"queId": "hadAlcohol",
     },{
-		"text": "Did you eat well?",
-		"options": [ "👍","👎"],
-		"correct_choice": 0
+		"que": "Did you eat well?",
+		"queId": "eatWell",
     },{
-		"text": "Were you productive?",
-		"options": [ "👍","👎"],
-		"correct_choice": 0
+		"que": "Were you productive?",
+		"queId": "productive",
     },{
-		"text": "Did you spend time with friends?",
-		"options": [ "👍","👎"],
-		"correct_choice": 0
+		"que": "Did you spend time with friends?",
+		"queId": "outWithFriends",
     }
   ]
 }
