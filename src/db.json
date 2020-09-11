@@ -1,23 +1,42 @@
 {
-  "questions": [
-    {
-		"que": "Did you exercise today?",
-		"queId": "excercised"
-    },{
-		"que": "Did you sleep well last night?",
-		"queId": "sleepWell"
-    },{
-		"que": "Did you drink alcohol?",
-		"queId": "hadAlcohol"
-    },{
-		"que": "Did you eat well?",
-		"queId": "eatWell"
-    },{
-		"que": "Were you productive?",
-		"queId": "productive"
-    },{
-		"que": "Did you spend time with friends?",
-		"queId": "outWithFriends"
-    }
-  ]
+    "settings":
+        {
+            "thankYouMessage":
+                "This is last screen thank You message",
+            "minSurveysForInsights":
+                14,
+            "goodInsightsTitle":
+                "This is a tile for good container",
+            "badInsightsTitle":
+                "This is a bad insights title"
+        },
+    "questions":
+        [
+            {
+
+                "active": true,
+                "que": "Did you exercise today?",
+                "queId": "excercised"
+            }, {
+            "active": true,
+            "que": "Did you sleep well last night?",
+            "queId": "sleepWell"
+        }, {
+            "active": true,
+            "que": "Did you drink alcohol?",
+            "queId": "hadAlcohol"
+        }, {
+            "active": true,
+            "que": "Did you eat well?",
+            "queId": "eatWell"
+        }, {
+            "active": true,
+            "que": "Were you productive?",
+            "queId": "productive"
+        }, {
+            "active": true,
+            "que": "Did you spend time with friends?",
+            "queId": "outWithFriends"
+        }
+        ]
 }
