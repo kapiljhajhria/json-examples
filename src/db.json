@@ -37,6 +37,10 @@
             "active": true,
             "que": "Did you spend time with friends?",
             "queId": "outWithFriends"
+        } ,{
+            "active": false,
+            "que": "test question which is disabled",
+            "queId": "testQuestion"
         }
         ]
 }
