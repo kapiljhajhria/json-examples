@@ -3,12 +3,10 @@
         {
             "thankYouMessage":
                 "This is last screen thank You message",
-            "minSurveysForInsights":
-                14,
             "goodInsightsTitle":
-                "This is a tile for good container",
+                "Chances of having a good Day 🥳",
             "badInsightsTitle":
-                "This is a bad insights title"
+                "Chances of Having a bad day 😭"
         },
     "questions":
         [
