@@ -16,31 +16,33 @@
 
                 "active": true,
                 "que": "Did you exercise today?",
-                "queId": "excercised"
+                "queId": "excercised",
+                "insightsTxt": "Excercised"
             }, {
             "active": true,
             "que": "Did you sleep well last night?",
-            "queId": "sleepWell"
+            "queId": "sleepWell",
+                "insightsTxt": "Had a good Sleep"
         }, {
             "active": true,
             "que": "Did you drink alcohol?",
-            "queId": "hadAlcohol"
+            "queId": "hadAlcohol",
+            "insightsTxt": "Consumed Alcohol"
         }, {
             "active": true,
             "que": "Did you eat well?",
-            "queId": "eatWell"
+            "queId": "eatWell",
+            "insightsTxt": "Ate healty"
         }, {
             "active": true,
             "que": "Were you productive?",
-            "queId": "productive"
+            "queId": "productive",
+            "insightsTxt": "Had productive day"
         }, {
             "active": true,
             "que": "Did you spend time with friends?",
-            "queId": "outWithFriends"
-        } ,{
-            "active": false,
-            "que": "test question which is disabled",
-            "queId": "testQuestion"
+            "queId": "outWithFriends",
+            "insightsTxt": "Went out with Friends"
         }
         ]
 }
